@@ -1,1 +1,13 @@
-***Add newline seperated list of repositories to be transfered here***
+russomi/aws-cfn-code-pipeline
+russomi/taskcat-examples
+russomi/StandardIssueLabels
+russomi/gcloud-data-notes
+russomi/beam-quickstart-py
+russomi/packaging_tutorial
+russomi/bigquery-faker-schema
+russomi/github-template-repo
+russomi/contributing-template
+russomi/github-issue-templates
+russomi/AWSConfigOrgsMemberAccountAggregator
+russomi/standard-doc-templates
+russomi/thegooddocsproject-templates
